@@ -121,9 +121,11 @@ function createReadMe(data) {
 
   ${data.licenseBadge}
 
-## Contents
+---
 
-1. [Description](#description)
+## Contents 🗒
+
+1. [About](#about)
     1. [User Story](#user%20story)
     2. [Acceptance criteria](#acceptance%20criteria)
     3. [Project Preview](#project%20preview)
@@ -215,7 +217,7 @@ ${data.usage}
 
 ## Authors and Acknowledgments ✨
 
-Built by ${data.author} 
+Built by ${data.author}
 
 ---
 

@@ -1,11 +1,15 @@
 
-# blah
+# ReadMe Generator
+
+  This application allows you to dynamically create a professional ReadMe.md using the command-line. 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contents
+---
 
-1. [Description](#description)
+## Contents 🗒
+
+1. [About](#about)
     1. [User Story](#user%20story)
     2. [Acceptance criteria](#acceptance%20criteria)
     3. [Project Preview](#project%20preview)
@@ -20,7 +24,6 @@
 
 ## About 📋
 
-blah
 
 ---
 
@@ -38,19 +41,19 @@ blah
 
 ## Project Preview 📸
 
-![Visual](blah)
+![Visual](/assets/GIF/ReadMeGen-SC.gif)
 
 ---
 
 ## Installation 📀
 
-  blah
+  Clone repo, run npm init, install dependencies, run node
 
   To clone the repo:
 
     git clone 
     
-    blah
+    git@github.com:vynguyen205/ReadMe-Generator.git
 
 ---
 
@@ -82,28 +85,28 @@ To contribute to this application, create a pull request.
 
 ## Links 🔗 
 
-**[GitHub Link 🐱](b;h)**
+**[GitHub Link 🐱](https://github.com/vynguyen205/ReadMe-Generator/tree/main)**
 
 <br>
 
-**[Deployed Link 👀](blah)**
+**[Deployed Link 👀](none)**
 
 ---
 
 ## Usage Instructions 💻
 
-blah
+Answer the questions prompted in the command line. Once you are done, the ReadMe will automatically be generated. Some parts of the ReadMe is left blank intentionally, so that you can manually input your own information in after the important parts of the ReadMe has been generated. Whichever part of the ReadMe that is not necessary to your project, please remove. 
 
 ---
 
 ## Authors and Acknowledgments ✨
 
-Built by blah 
+Built by Vy Nguyen 
 
 ---
 
 ## Contacts ☎️
 
-- GitHub Username: [blah](https://github.com/blah)
-- GitHub Email: blah
+- GitHub Username: [vynguyen205](https://github.com/vynguyen205)
+- GitHub Email: vynguyen0520@gmail.com
   
