@@ -24,18 +24,39 @@
 
 ## About 📋
 
+A good and quality ReadMe is essential to any projects. A professional Readme needs to have components such as a description, how to use, a project preview, how to install, and letting others making contributions to your project. This command-line ReadMe generator will allow you to focus and spend more time on your project instead of getting distracted and worry about how to make a good ReadMe.
 
 ---
 
 ## User Story 👩🏻‍🏫
 
->
+```md
+AS A developer
+I WANT a README generator
+SO THAT I can quickly create a professional README for a new project
+```md
 
 ---
 
 ## Acceptance Criteria 🌈
 
->
+```md
+GIVEN a command-line application that accepts user input
+WHEN I am prompted for information about my application repository
+THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+WHEN I enter my project title
+THEN this is displayed as the title of the README
+WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
+THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
+WHEN I choose a license for my application from a list of options
+THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
+WHEN I enter my GitHub username
+THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
+WHEN I enter my email address
+THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+WHEN I click on the links in the Table of Contents
+THEN I am taken to the corresponding section of the README
+```
 
 ---
 
@@ -101,7 +122,7 @@ Answer the questions prompted in the command line. Once you are done, the ReadMe
 
 ## Authors and Acknowledgments ✨
 
-Built by Vy Nguyen 
+Built by **Vy Nguyen** 
 
 ---
 
