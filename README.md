@@ -34,7 +34,7 @@ A good and quality ReadMe is essential to any projects. A professional Readme ne
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
-```md
+```
 
 ---
 
