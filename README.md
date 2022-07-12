@@ -27,7 +27,6 @@
 
 ---
 
-
 ## Acceptance Criteria 🌈
 
 ```md
