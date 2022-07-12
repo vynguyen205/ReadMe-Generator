@@ -1,7 +1,7 @@
 
 # ReadMe Generator
 
-  This application allows you to dynamically create a professional ReadMe.md using the command-line. 
+   This application allows you to dynamically create a professional ReadMe.md using the command-line.
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -10,9 +10,8 @@
 ## Contents 🗒
 
 1. [About](#about)
-    1. [User Story](#user%20story)
-    2. [Acceptance criteria](#acceptance%20criteria)
-    3. [Project Preview](#project%20preview)
+    1. [Acceptance criteria](#acceptance%20criteria)
+    2. [Project Preview](#project%20preview)
 2. [Installation](#installation)
 3. [Technologies](#technologies)
 4. [License](#license)
@@ -24,17 +23,7 @@
 
 ## About 📋
 
-A good and quality ReadMe is essential to any projects. A professional Readme needs to have components such as a description, how to use, a project preview, how to install, and letting others making contributions to your project. This command-line ReadMe generator will allow you to focus and spend more time on your project instead of getting distracted and worry about how to make a good ReadMe.
-
----
-
-## User Story 👩🏻‍🏫
-
-```md
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-```
+- As a developer, we all need a good ReadMe to showcase our project. A decent ReadMe can take up too much time, and I'd rather spend that time debugging 🐛  my code. So, this CLI application is created to help you and I be more efficient.
 
 ---
 
@@ -74,7 +63,7 @@ THEN I am taken to the corresponding section of the README
 
     git clone 
     
-    git@github.com:vynguyen205/ReadMe-Generator.git
+     git@github.com:vynguyen205/ReadMe-Generator.git
 
 ---
 
@@ -116,13 +105,13 @@ To contribute to this application, create a pull request.
 
 ## Usage Instructions 💻
 
-Answer the questions prompted in the command line. Once you are done, the ReadMe will automatically be generated. Some parts of the ReadMe is left blank intentionally, so that you can manually input your own information in after the important parts of the ReadMe has been generated. Whichever part of the ReadMe that is not necessary to your project, please remove. 
+Answer the questions prompted in the command line. Once you are done, the ReadMe will automatically be generated. Some parts of the ReadMe is left blank intentionally, so that you can manually input your own information in after the important parts of the ReadMe has been generated. Whichever part of the ReadMe that is not necessary to your project, please remove.
 
 ---
 
 ## Authors and Acknowledgments ✨
 
-Built by **Vy Nguyen** 
+Built by Vy Nguyen
 
 ---
 
